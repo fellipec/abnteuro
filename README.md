@@ -17,4 +17,4 @@ Este layout de teclado alternativo modifica o layout padrão ABNT2 para gerar o 
 
 Note que é possível manter este layout e o padrão ativos ao mesmo tempo e alterna-los usando o ícone de layout de teclado na área de notificação do Windows ou usando a combinação `Alt Esquerdo + Shift`.
 
-Este layout foi feito com o [Microsoft Keyboard Layout Creator 1.4](https://support.microsoft.com/pt-br/help/823010/the-microsoft-keyboard-layout-creator)
+Este layout foi feito com o [Microsoft Keyboard Layout Creator 1.4](https://www.microsoft.com/en-gb/download/details.aspx?id=102134)
